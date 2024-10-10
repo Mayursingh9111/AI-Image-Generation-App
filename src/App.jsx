@@ -36,7 +36,7 @@ const ImageGenerator = () => {
 
   return (
     <div className="container">
-      <h1 className="title">Colorful Image Generator</h1>
+      <h1 className="title">AI Image Generator</h1>
       <input
         type="text"
         value={inputText}
